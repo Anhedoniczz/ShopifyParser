@@ -10,6 +10,9 @@ $ python3 ShopifyParser.py
 ```
 # Video
 
-https://user-images.githubusercontent.com/93049946/210624586-d9b53ee4-1a5d-4505-8d13-4d344fde7a9a.mp4
+
+https://user-images.githubusercontent.com/93049946/210628353-5f24ffdb-1176-41df-98c7-e179430afd96.mp4
+
+
 
 
