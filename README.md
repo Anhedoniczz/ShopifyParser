@@ -3,7 +3,7 @@ Simple Shopify parser which helps you extract data from any shopify website (wri
 
 # Installation 
 ```
-$ git clone https://github.com/LoopHole1337/ShopifyParser.git
+$ git clone https://github.com/Anhedoniczz/ShopifyParser.git
 $ cd ShopifyParser
 $ pip3 install -r requirements.txt
 $ python3 ShopifyParser.py
